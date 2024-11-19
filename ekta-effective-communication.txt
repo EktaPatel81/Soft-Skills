@@ -1,0 +1,96 @@
+Question 6: Email Asking for a Status Update
+
+Subject: Request for Status Update on FaceSync App  
+
+Dear Ekta,  
+
+I hope this email finds you well. I am writing to inquire about the current status of FaceSync App development, as I have not received recent updates.  
+
+Could you kindly provide me with an update at your earliest convenience? If there are any challenges or additional inputs required from my side, please let me know.  
+
+Thank you for your attention, and I look forward to your response.  
+
+Best regards,  
+Abc
+Project Manager  
+
+---
+
+Question 7: Asking for a Raise in Salary  
+
+Subject: Request for Salary Adjustment  
+
+Dear Sir/Ma'am,  
+
+I hope you are doing well. I would like to request a discussion regarding a potential salary adjustment based on my performance and contributions in my role as software developer.  
+
+Over the past 3 years, I have many achievements, increased responsibilities and notable contributions. These efforts have positively impacted on company goals.  
+
+I believe that a salary adjustment would reflect my efforts and align with industry standards. I would greatly appreciate the opportunity to discuss this matter further at a convenient time for you.  
+
+Thank you for considering my request.  
+
+Best regards,  
+Ekta Patel  
+Software developer
+
+---
+
+Question 8: Email to Your Boss About a Problem (Requesting Help)  
+
+Subject: Request for Assistance with Resource Allocation for Project  
+
+Dear Sir,  
+
+I hope you are doing well. I am writing to seek your guidance regarding a challenge I am facing with resource allocation for the FaceSync. Despite my efforts to optimize the available resources and adjust timelines, the lack of technical tools is causing delays in meeting critical milestones.  
+
+Your advice or support in prioritizing additional resources, or perhaps reassigning team members temporarily, would greatly help in resolving this issue and ensuring that we stay on track.  
+
+Please let me know a convenient time to discuss this further. Your insights and direction would be invaluable in ensuring the project's success.  
+
+Thank you for your understanding and support.  
+
+Best regards,  
+Ekta Patel  
+Project Manager
+
+---
+
+Question 9: Resignation Email  
+
+Subject: Resignation – Ekta Patel  
+
+Dear Sir/Ma'am,  
+
+I am writing to formally resign from my position as .net developer at TechFast, effective from 1-12-2024.  
+
+This decision was not made lightly, as I have greatly appreciated the opportunities to grow professionally and contribute to the team during my time here. I am committed to ensuring a smooth transition and am happy to assist with the handover of responsibilities, training a replacement, etc.  
+
+Thank you for your understanding and support throughout my tenure. I hope to stay in touch, and I wish the company continued success in the future.  
+
+Sincerely,  
+Ekta Patel
+.net developer  
+
+---
+
+Scenario 10: Introduction Email to Client
+
+Subject: Introduction – Nexus Solutions / John Doe  
+
+Dear Ms. Smith,  
+
+I hope this email finds you well. My name is John Doe, and I am the Client Relationship Manager at Nexus Solutions. I am reaching out to introduce myself as your dedicated point of contact for the digital transformation project we are set to embark on together.  
+
+At Nexus Solutions, we are committed to delivering innovative and tailored IT solutions that empower our clients to achieve their business objectives efficiently. My primary goal is to understand your specific requirements and ensure we align our services to meet and exceed your expectations.  
+
+Please feel free to contact me directly at john.doe@nexussolutions.com or via phone at +1 (555) 123-4567 for any assistance, updates, or queries. I look forward to working closely with you and building a strong, successful partnership.  
+
+Thank you for the opportunity to collaborate with your organization.  
+
+Best regards,  
+John Doe  
+Client Relationship Manager  
+Nexus Solutions  
+Email: john.doe@nexussolutions.com  
+Phone: +1 (555) 123-4567    
